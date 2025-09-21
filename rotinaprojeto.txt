@@ -19,5 +19,6 @@ Assets para arquivos de imagens e videos.
 Components para o footer e o header (que serao mantidos em cada pagina).
 Meu Portifolio que tera o html de cada pagina, junto com a basta css e js.
 Projects para as guias da pagina projects.html para ter algo mais organizado.
+Estou aguardando migração da hostinger para hospedar o projeto em www.yvesutter.com
 
 #Dia 3 (22/09/2025)
