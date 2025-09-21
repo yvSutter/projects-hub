@@ -1,0 +1,23 @@
+Meu nome é Yves, estudei durante 1 ano na Proway, escola de tecnologia na cidade de Blumenau-SC.
+Irei usar este arquivo como um diario do que estou aprendendo e pesquisando dia a dia.
+
+ROTIDA DE ESTUDOOS:
+Dia 1 foquei em organizar o projeto e começando a organizar meu Github, aprendendo a criar e atualizar um projeto.
+
+MINHA BASE:
+Estudei na Proway nos ano de 2023 as seguintes linguagens: JavaScript | TypeScript | Angular | jQuery | Ajax | C# | MySql | HTML | CSS.
+
+#Dia 1 (19/09/2025)
+Hoje comecei o dia pensando no que irei estudar apartir da semana seguinte, elaborei uma pre ideia do que desejo fazer de portifolio e por onde começarei.
+Meu objetivo sera criar um portifolio como site, focando inicialmente em HTML, CSS, JS e Git;
+Com o website estruturado com certa humildade, irei começar a focar em projetos menores na guia Projetos, onde demonstrarei o conhecimento que estarei adquirindo com o tempo.
+Estou estudando com os videos do canal Curso em Video.
+
+#Dia 2 (21/09/2025)
+Hoje estou pesquisando e estruturando o arquivo do site no Visual Studio Code e cheguei na ideia com referencias de segmentar o projeto em tipos como:
+Assets para arquivos de imagens e videos.
+Components para o footer e o header (que serao mantidos em cada pagina).
+Meu Portifolio que tera o html de cada pagina, junto com a basta css e js.
+Projects para as guias da pagina projects.html para ter algo mais organizado.
+
+#Dia 3 (22/09/2025)
