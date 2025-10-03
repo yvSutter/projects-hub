@@ -1,0 +1,18 @@
+.dropdown {
+    all: unset;
+    display: block;
+}
+.nav-item{
+    all: unset;
+    display: block;
+}
+.dropdown .nav-item{
+    color: #000 !important;
+}
+.primeiroprojeto{
+    height: 400px;
+    background-color: beige;
+}
+header{
+    color: #000;
+}
